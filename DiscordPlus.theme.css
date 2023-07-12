@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/ZZRRDGT.jpg);
+  --dplus-backdrop: url(https://i.imgur.com/722CT7p.jpg);
   
   --dplus-accent-color-hue: 195;
   --dplus-accent-color-saturation: 34%;
@@ -48,21 +48,21 @@
   
   --dplus-foreground-color-hue-base: 199;
   --dplus-foreground-color-hue-links: 203;
-  --dplus-foreground-color-saturation-amount: 10;
-  --dplus-foreground-color-lightness-amount: 3;
+  --dplus-foreground-color-saturation-amount: 37;
+  --dplus-foreground-color-lightness-amount: 0;
 
   --dplus-background-color-hue: 206;
   --dplus-background-color-saturation-amount: 10;
-  --dplus-background-color-lightness-amount: 5;
+  --dplus-background-color-lightness-amount: 3;
   --dplus-background-color-alpha: 0.8;
 }
 
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Youth and Beauty Normal';
+  --dplus-font-ui: 'Cambria';
   --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Bodoni MT';
+  --dplus-font-header: 'Roboto';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
