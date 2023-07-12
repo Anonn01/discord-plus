@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Whitney';
+  --dplus-font-ui: 'Roboto';
   --dplus-font-body: 'Whitney';
   --dplus-font-header: 'Roboto';
 
@@ -72,15 +72,15 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 7px;
+  --dplus-spacing-ui: 3px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 2px;
+   --dplus-spacing-app: 0px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 22px;
---dplus-icon-avatar-list: 37px;
---dplus-icon-avatar-profile: 100px;
+--dplus-icon-avatar-chat: 38px;
+--dplus-icon-avatar-list: 41px;
+--dplus-icon-avatar-profile: 110px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
