@@ -72,18 +72,18 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 13px;
+  --dplus-spacing-ui: 12.5px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
    --dplus-spacing-app: 3px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 40px;
---dplus-icon-avatar-list: 47px;
+--dplus-icon-avatar-chat: 43px;
+--dplus-icon-avatar-list: 52px;
 --dplus-icon-avatar-profile: 200px;
 
 --dplus-icon-server-sidebar: 48px;
---dplus-icon-server-list: 46px;
+--dplus-icon-server-list: 50px;
 
 /* The Home icon on the top left */
 --dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
