@@ -48,13 +48,13 @@
   
   --dplus-foreground-color-hue-base: 199;
   --dplus-foreground-color-hue-links: 203;
-  --dplus-foreground-color-saturation-amount: 37;
-  --dplus-foreground-color-lightness-amount: 39;
+  --dplus-foreground-color-saturation-amount: 57;
+  --dplus-foreground-color-lightness-amount: 66;
 
   --dplus-background-color-hue: 213;
   --dplus-background-color-saturation-amount: 58;
-  --dplus-background-color-lightness-amount: 25;
-  --dplus-background-color-alpha: 0.7;
+  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-alpha: 0.8;
 }
 
 :root {
@@ -72,7 +72,7 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 20px;
+  --dplus-spacing-ui: 17px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
    --dplus-spacing-app: 7px;
