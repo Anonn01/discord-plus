@@ -53,16 +53,16 @@
 
   --dplus-background-color-hue: 213;
   --dplus-background-color-saturation-amount: 58%;
-  --dplus-background-color-lightness-amount: 20%;
+  --dplus-background-color-lightness-amount: 25%;
   --dplus-background-color-alpha: 0.8;
 }
 
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Roboto';
+  --dplus-font-ui: 'Cambria';
   --dplus-font-body: 'Whitney';
-  --dplus-font-header: 'Roboto';
+  --dplus-font-header: 'Cambria';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
@@ -78,9 +78,9 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 0px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 38px;
+--dplus-icon-avatar-chat: 48px;
 --dplus-icon-avatar-list: 41px;
---dplus-icon-avatar-profile: 110px;
+--dplus-icon-avatar-profile: 190px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
