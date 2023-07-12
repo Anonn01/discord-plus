@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/ZZRRDGT.jpg);
+  --dplus-backdrop: url(https://i.imgur.com/tkTmPYB.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 195;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/722CT7p.jpg);
+  --dplus-backdrop: url(https://i.imgur.com/ZZRRDGT.jpg);
   
   --dplus-accent-color-hue: 195;
   --dplus-accent-color-saturation: 34%;
@@ -49,7 +49,7 @@
   --dplus-foreground-color-hue-base: 199;
   --dplus-foreground-color-hue-links: 203;
   --dplus-foreground-color-saturation-amount: 37;
-  --dplus-foreground-color-lightness-amount: 0;
+  --dplus-foreground-color-lightness-amount: 39;
 
   --dplus-background-color-hue: 213;
   --dplus-background-color-saturation-amount: 58;
@@ -72,10 +72,10 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 8px;
+  --dplus-spacing-ui: 20px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 0px;
+   --dplus-spacing-app: 7px;
 
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 48px;
